@@ -1,1 +1,1 @@
-Puts 'Yellow WOrld'
+puts 'Yellow WOrld'
